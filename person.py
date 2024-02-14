@@ -17,14 +17,28 @@ right(90)
 forward(25)
 
 # Draw right arm
+left(125)
+forward(75)
+back(75)
 
 # Draw left arm
+right(250)
+forward(75)
+back(75)
 
 # Move down to bottom of line
+left(125)
+forward(50)
 
 # Left Leg
+right(25)
+forward(75)
+back(75)
 
 # Right leg
+left(50)
+forward(75)
+back(75)
 
 # Wait for the user to close the window
 done()
